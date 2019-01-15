@@ -1,7 +1,7 @@
-Vagrantfile will deploy Apache Metron as a single node instance (node1) to esxi
-Vagrantfile2 will deploy Apache Metron as a single node instance (node1) to AWS EC2
+.txt files will deploy Metron as single-node instance to AWS EC2 or esxi.
 
 Usage:
+Rename the .txt file to Vagrantfile
 Vagrant up
 
 Please read the script before running the above commands
