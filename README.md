@@ -8,6 +8,6 @@ Please read the script before running the above commands
 
 .sh scripts will install Cowrie and Dionea honeypots(tested on Raspberrypi 3 device running Ubuntu mate)
 Usage:
-chmod +x *.sh 
-./cowrie-install.sh
-./dionaea-install.sh
+chmod +x *.sh \n
+./cowrie-install.sh \n
+./dionaea-install.sh \n
