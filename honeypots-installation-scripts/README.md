@@ -15,7 +15,7 @@ Cowrie is developed by Michel Oosterhof
 
 Official repository: https://github.com/cowrie/cowrie
 
-## What is Dionea?
+## What is Dionaea?
 
 Dionaea's intention is to trap malware exploiting vulnerabilities exposed by services offerd to a network, the ultimate goal is gaining a copy of the malware.
 
