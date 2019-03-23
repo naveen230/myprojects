@@ -9,7 +9,7 @@ max_page = 2429 #total number of pages,change the value if needed.
 i = 1
 
 for i in range(1, 2429):
-    # the items in the data set will be in ascending order
+    # the items in the data set will be extracted in ascending order
     #change to home URL https://www.data.gov/ if needed
     page = requests.get("https://catalog.data.gov/dataset?q=&sort=score+desc%2C+name+asc&page=" + str(i))
     soup = BeautifulSoup(page.content, 'html.parser')
