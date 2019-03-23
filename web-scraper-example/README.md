@@ -4,7 +4,7 @@
 
 This script is used as part of the initiative by Systema Naturae to download datasets related to wildlife conservation from DATA.GOV (https://www.data.gov/)
 
-# What is Systema Nature?
+# What is Systema Naturea?
 
 Systema Naturae is a web platform where research DataSets on Wildlife and Wildlife research & conservation Projects are showcased. Anyone will be able to submit DataSets and Projects to the website which will be available for everyone else to access.
 The centralized repository or data index for DataSets and Projects on wildlife will help researchers, students and policy makers get access to them as well as create awareness about the conservation efforts.
