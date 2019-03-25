@@ -2,7 +2,7 @@
 docker run -it \
     --hostname gitlab.yourdomain.com \ #enter your custom domain here
     --env GITLAB_OMNIBUS_CONFIG="
-letsencrypt['auto_renew'] = false;
+letsencrypt['auto_renew'] = true;
 letsencrypt['enable'] = true;
 letsencrypt['contact_emails'] = ['youremail@gmail.com']; #enter your email id here
 external_url 'https://gitlab.yourdomain.com/'; #enter your custom domain here again
