@@ -2,6 +2,8 @@
 
 This script installs self-hosted Gitlab Community edition platform on any Ubuntu/Debian systems. This script is tested on Ubuntu 18.04.2 Bionic Beaver.
 
+https://gitlab.com/gitlab-org/gitlab-ce/
+
 # Usage
 
 1) Clone the repository or download the script
@@ -27,6 +29,8 @@ This script installs self-hosted Gitlab Community edition platform on any Ubuntu
  5) ./gitlab-installation.sh
  
  # Updates
+ 
+ Source : https://about.gitlab.com/update/
  
  To update to the latest version
  
