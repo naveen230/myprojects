@@ -8,7 +8,7 @@ import pickle
 max_page = 2429 #total number of pages,change the value if needed.
 i = 1
 
-for i in range(1, 2429):
+for i in range(1, max_page):
     # the items in the data set will be extracted in ascending order
     #change to home URL https://www.data.gov/ if needed
     page = requests.get("https://catalog.data.gov/dataset?q=&sort=score+desc%2C+name+asc&page=" + str(i))
@@ -34,5 +34,5 @@ for i in range(1, 2429):
                 towrite.writerow(fields)
                 
 i = i + 1
-if i > 2429:
+if i > max_page:
     print("The complete dataset is now downloaded!")
