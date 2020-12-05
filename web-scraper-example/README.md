@@ -24,7 +24,7 @@ pip install beautifulsoup4
 
 python3 scraper.py
 
-** Please submit an issue if you face any errors
+
 
 
 
